@@ -1,6 +1,6 @@
 ﻿# PyTorch
  
-本项目包含完整的 ViT 模型实现、训练和评估流程：
+包含完整的 ViT 模型实现、训练和评估流程：
 
 ViT 实现：从零构建 Vision Transformer 模型
 
